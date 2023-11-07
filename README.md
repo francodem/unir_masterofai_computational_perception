@@ -1,1 +1,1 @@
-# unir_masterofai_computational_perception
+# UNIR's Master Degree in AI | Computational Perception
